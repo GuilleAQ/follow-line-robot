@@ -1,0 +1,6 @@
+{
+	"team_name": "$TU_NOMBRE_DE_EQUIPO ",
+	"id": "$ID_EQUIPO",
+	"action": "STOP_LINE_SEARCH"
+}
+
