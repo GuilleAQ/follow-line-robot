@@ -131,8 +131,8 @@ Encapsulates the MQTT comunication. The constructor accepts a WiFiClient referen
 
 ## Usage
 - Ensure all hardware components are connected to the specified pins.
-- Define a ssid and psswd in WiFi constructor.
-- Define an adress and server port to connect and a topic to publish 
+- Define (in WiFi constructor) a ssid and psswd.
+- Define (in MQTT constructor) an adress and server port to connect and a topic to publish.
 - Upload the code to an Arduino board from follow_line.ino and Upload the code from ESP.ino to ESP board.
 - The robot will start when ESP indicates it (when connects to server).
 
