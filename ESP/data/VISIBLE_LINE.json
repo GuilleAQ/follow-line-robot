@@ -1,0 +1,7 @@
+{
+	"team_name": "$TU_NOMBRE_DE_EQUIPO ",
+	"id": "$ID_EQUIPO",
+	"action": "VISIBLE_LINE",
+        "value": 0.00
+}
+
