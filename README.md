@@ -16,9 +16,8 @@
 - [Introduction](#Introduction)
 - [FollowLine Arduino Code](#FollowLine-Arduino-Code)
 - [ESP code](#ESP-code)
-- [Operating video](#Operating-video)
 - [Usage](#Usage)
-
+- [Operating video](#Operating-video)
 
 ## Introduction
 ### Overview
