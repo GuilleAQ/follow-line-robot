@@ -129,7 +129,7 @@ Encapsulates the MQTT comunication. The constructor accepts a WiFiClient referen
 - Flexibility: for WiFi, the class supports both standard and enterprise WiFi networks, making it versatile for different environments.
 - Ease of Use: The MQTT class provides a simplified interface for connecting to an MQTT server and publishing messages, abstracting the complexities of MQTT protocol handling.
 
-  ## Usage
+## Usage
 - Ensure all hardware components are connected to the specified pins.
 - Define a ssid and psswd in WiFi constructor.
 - Define an adress and server port to connect and a topic to publish 
